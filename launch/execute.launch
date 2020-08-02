@@ -1,7 +1,7 @@
 <launch>
-	<node pkg="project1"
-	  	  type="solution.py"
-	  	  name="project1"
+	<node pkg="grasping_ur5"
+	  	  type="pick_and_place.py"
+	  	  name="grasping_ur5"
 	  	  output="screen" 
 	></node>
 </launch>
