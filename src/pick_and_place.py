@@ -99,7 +99,7 @@ class grasper:
 
 def main():
     # Create a ROS node.
-    rospy.init_node('get_grasps')
+    rospy.init_node('pick_and_place')
     g1 = grasper()
     rate = rospy.Rate(1)
     rate.sleep()
