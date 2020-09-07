@@ -19,5 +19,5 @@ Publishers : /object_pose
 ### Pick and Place with UR5 and Zed Stereo Camera
 
 
-## Expected Output:
+## Expected Output: With little modification this package will work with ABB Manipulators
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DSQBZ3Fy7N0/0.jpg)](https://www.youtube.com/watch?v=DSQBZ3Fy7N0)
