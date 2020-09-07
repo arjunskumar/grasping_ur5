@@ -1,8 +1,8 @@
 # grasping_ur5 
 
-This package is a pick and place application using Universal Robot (UR5) and a RGBD/ Stereo Camera.
+This ros package is a pick and place application using Universal Robot (UR5) and a RGBD/ Stereo Camera.
 
- [gpd] (https://github.com/atenpas/gpd.git) was modified to detect the centroid of point cloud clusters.
+ [gpd](https://github.com/atenpas/gpd.git) was modified to detect the centroid of point cloud clusters.
 
 
 
@@ -18,4 +18,6 @@ Publishers : /object_pose
 
 ### Pick and Place with UR5 and Zed Stereo Camera
 
-[![Output Video](https://img.youtube.com/vi/DSQBZ3Fy7N0/maxresdefault.jpg)](https://youtu.be/DSQBZ3Fy7N0)
+
+## Expected Output:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DSQBZ3Fy7N0/0.jpg)](https://www.youtube.com/watch?v=DSQBZ3Fy7N0)
